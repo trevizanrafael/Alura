@@ -1,0 +1,32 @@
+.head {
+    background-color: rgb(163, 12, 151);
+}
+.body {
+    background-color: rgb(255, 255, 255);
+}
+.title {
+    color: rgb(255, 255, 255);
+    font-size: 69px;
+    font: comic sans ms;
+    font-weight: strong;
+    text-align: center;
+}
+.h1 {
+    color: rgb(163, 12, 151);
+    font-size: 69px;
+    font: comic sans ms;
+    font-weight: bold;
+    text-align: left;
+}
+.p {
+    color: rgb(163, 12, 151);
+    font-size: 40px;
+    font: comic sans ms;
+    text-align: left;
+}
+.ol {
+    color: rgb(163, 12, 151);
+    font-size: 40px;
+    font: comic sans ms;
+    text-align: left;
+}
