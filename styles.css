@@ -5,7 +5,7 @@
     background-color: rgb(255, 255, 255);
 }
 .title {
-    color: rgb(216, 123, 123);
+    color: rgb(255, 255, 255);
     font-size: 69px;
     font: comic sans ms;
     font-weight: strong;
@@ -27,6 +27,6 @@
 .ol {
     color: rgb(163, 12, 151);
     font-size: 40px;
-    font: comic sans ms;
+    font: Times;
     text-align: left;
 }
